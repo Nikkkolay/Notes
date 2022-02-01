@@ -27,7 +27,7 @@ namespace Algorithms
 
         public static void Test()
         {
-            int[] arr = {1, 2, 5, 12, 89, 6};
+            int[] arr = {1, 2, 5, 12, 89, 600};
             Console.WriteLine(FindIndexOfNumber(5, arr));
             Console.WriteLine(FindIndexOfNumber(6, arr));
         }
