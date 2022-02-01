@@ -1,5 +1,3 @@
-﻿using System;
-
 namespace Algorithms
 {
     class Program
@@ -7,6 +5,7 @@ namespace Algorithms
         static void Main(string[] args)
         {
             BinarySearch.Test();
+            SelectionSort.Test();
         }
     }
 }
