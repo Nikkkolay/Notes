@@ -6,6 +6,7 @@ namespace Algorithms
         {
             BinarySearch.Test();
             SelectionSort.Test();
+            Recursion.Test();
         }
     }
 }
